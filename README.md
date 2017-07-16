@@ -1,0 +1,2 @@
+# CompileAnnotationDemo
+Android中编译时注解实际运行Demo，仿照ButterKnife来写的
