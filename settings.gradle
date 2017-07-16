@@ -1,0 +1,1 @@
+include ':app', ':ci-annotation', ':ci-compiler', ':ci-api'
